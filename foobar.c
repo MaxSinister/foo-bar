@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "foobar.h"
 
 int main(void) {
