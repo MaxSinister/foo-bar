@@ -1,3 +1,3 @@
 int BAR = 42;
 int BAZ = 17;
-int QUX = 5;
+int QUUX = 5;
